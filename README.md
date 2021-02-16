@@ -11,7 +11,7 @@
 [![XXXXXX](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&&logo=Kotlin&logoColor=white)](#)
 [![XXXXXX](https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&&logo=Google-Play&logoColor=white)](#)
 [![XXXXXX](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=Git&logoColor=white)](#)
-
+[![XXXXXX](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&&logo=Material-Design&logoColor=white)](#)
 
 ---
 
