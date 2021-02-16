@@ -1,16 +1,59 @@
-### Hi there 👋
+## :wave: Hi there, My name is [Alexander Nexy](https://github.com/nexy791)
 
-<!--
-**nexy791/nexy791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I am a young **Junior Android developer** from Kyiv, Ukraine :ukraine:*
 
-Here are some ideas to get you started:
+### My Tech Stack
+[![XXXXXX](https://img.shields.io/badge/-Android_Junior_Roadmap-3DDC84?style=for-the-badge&&logo=Android-Studio&logoColor=white)](https://github.com/mobile-roadmap/android-developer-roadmap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![XXXXXX](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&&logo=Android&logoColor=white)](#)
+[![XXXXXX](https://img.shields.io/badge/-Java-007396?style=for-the-badge&&logo=Java&logoColor=white)](#)
+[![XXXXXX](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&&logo=Kotlin&logoColor=white)](#)
+[![XXXXXX](https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&&logo=Google-Play&logoColor=white)](#)
+[![XXXXXX](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=Git&logoColor=white)](#)
+
+
+---
+
+### **Languages**
+
+| :world_map:   | Language      | Level  | 
+| :------------:| ------------- |:------:| 
+| :ru:          | Russian       | C2     | 
+| :ukraine:     | Ukrainian     | C2     | 
+| :us:          | English       | B2     |
+
+---
+
+### **My portfolio**
+
+1. [Apps on Google Play](https://play.google.com/store/apps/dev?id=8181581032390861790)
+2. [GitHub Repositories](https://github.com/nexy791?tab=repositories)
+
+![Alt Text](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
+
+---
+
+### **About me**
+
+1. 18 y.o, studying **software engineering** at the **[International Scientific and Technical University](https://www.istu.edu.ua/)**
+2.  Learning **Kotlin** and **Modern Android Development**
+3.  In my spare time I practice **English** and **Mobile UX/UI**
+4.  Currently working on random projects to **learn something new and get experience**
+5.  I am interested in **collaboration** 
+ 
+---
+ 
+### **My activity in the last 7 days**
+
+**[WakaTime Profile](https://wakatime.com/@nexy791)**
+
+[![nexy791's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nexy791&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### **Contact me**
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&&logo=Telegram&logoColor=white)](https://t.me/nexy791)
+[![VK Badge](https://img.shields.io/badge/-VKONTAKTE-2787f5?style=for-the-badge&&logo=Vk&logoColor=white)](https://vk.me/nexy791)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&&logo=Gmail&logoColor=white)](mailto:nexy791@gmail.com)
