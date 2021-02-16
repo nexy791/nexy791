@@ -40,7 +40,7 @@
 2.  Learning **Kotlin** and **Modern Android Development**
 3.  In my spare time I practice **English** and **Mobile UX/UI**
 4.  Currently working on random projects to **learn something new and get experience**
-5.  I am interested in **collaboration** 
+5.  I am interested in **collaborations and new projects** 
  
 ---
  
