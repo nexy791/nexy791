@@ -21,7 +21,7 @@
 | :------------:| ------------- |:------:| 
 | :ru:          | Russian       | C2     | 
 | :ukraine:     | Ukrainian     | C2     | 
-| :us:          | English       | B2     |
+| :us:          | English       | B1     |
 
 ---
 
