@@ -34,6 +34,13 @@
 
 ---
 
+### **Work**
+
+1. 2021 - now
+[Freelance, Junior Android Developer and Mobile Designer](https://kwork.ru/user/linky791)
+
+---
+
 ### **About me**
 
 1. 18 y.o, studying **software engineering** at the **[International Scientific and Technical University](https://www.istu.edu.ua/)**
