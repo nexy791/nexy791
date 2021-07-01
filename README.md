@@ -63,4 +63,5 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&&logo=Telegram&logoColor=white)](https://t.me/nexy791)
 [![VK Badge](https://img.shields.io/badge/-VKONTAKTE-2787f5?style=for-the-badge&&logo=Vk&logoColor=white)](https://vk.me/nexy791)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&&logo=WhatsApp&logoColor=white)](https://wa.me/380665510170)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&&logo=Gmail&logoColor=white)](mailto:nexy791@gmail.com)
