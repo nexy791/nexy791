@@ -5,4 +5,4 @@
 
 
 My name is Olexandr Yasinskyi, I am a **Android developer** from Kyiv, Ukraine :ukraine:<br>
-**To get more info about me click here -> [https://bit.ly/linky791](https://bit.ly/linky791)**
+**To get more info about me click here -> [nexy791.github.io](https://nexy791.github.io)**
