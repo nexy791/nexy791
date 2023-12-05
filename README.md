@@ -6,5 +6,5 @@
 [![Olexandr's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nexy791&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nexy791)
 
 
-My name is Olexandr Yasinskyi, I am a **Android developer** from Kyiv, Ukraine :ukraine:<br>
+My name is Olexandr Yasinskyi, I am an **Android developer** from Kyiv, Ukraine :ukraine:<br>
 **To get more info about me click here -> [nexy791.github.io](https://nexy791.github.io)**
